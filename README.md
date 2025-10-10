@@ -1,3 +1,6 @@
 Classic Pong Arcade Game
 <br>
-only needs browser tab to play
+can use the site below to play
+
+https://raw.githack.com/jellollama/pong/main/tennisGame.html
+^ (used Raw.githack.com, CDN (Content Delivery Network) to produce the raw files directly from the source code here)
